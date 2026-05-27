@@ -84,5 +84,5 @@ Con formación de Ingeniería y trayectoria en Bootcamps de especialización, co
 ---
 
 ## 📬 Conectemos
-*   **LinkedIn:** [Tu Nombre / Enlace a LinkedIn]([https://www.linkedin.com/in/antonio-guiachetti-villarroel-b90816141/]) (Reemplaza con tu enlace)
+*   **LinkedIn:** [Antonio Guiachetti Villarroel / https://www.linkedin.com/in/antonio-guiachetti-villarroel-b90816141/] (Reemplaza con tu enlace)
 *   **Email:** [a.guiachetti@gmail.com](mailto:a.guiachetti@gmail.com)
