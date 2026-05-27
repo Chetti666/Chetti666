@@ -35,7 +35,7 @@ Con formación de Ingeniería y trayectoria en Bootcamps de especialización, co
 
 ## 🚀 Proyectos Destacados
 
-### 🏢 **GRManager & GRControl**
+### 🏢 **GRManager & GRControl** https://grcontrol.cl/
 > **Sistema de gestión y control de equipos industriales en tiempo real.**
 *   **Tecnologías:** Next.js, TypeScript, PostgreSQL, Prisma ORM, JWT, Shadcn/UI, Radix UI, Pusher, qrcode.react, xlsx.
 *   **Características clave:**
@@ -44,7 +44,7 @@ Con formación de Ingeniería y trayectoria en Bootcamps de especialización, co
     *   Notificaciones push en tiempo real mediante WebSockets (Pusher).
     *   Módulo de escaneo y generación de códigos QR para la gestión ágil de inventario de maquinaria.
 
-### ⚡ **VMElectric**
+### ⚡ **VMElectric** https://www.vmelectric.cl/
 > **Plataforma técnica para ingenieros eléctricos y cotizadores.**
 *   **Tecnologías:** Next.js, TypeScript, Tailwind CSS, PostgreSQL, Prisma ORM, REST APIs, Vercel.
 *   **Características clave:**
@@ -52,7 +52,7 @@ Con formación de Ingeniería y trayectoria en Bootcamps de especialización, co
     *   Generación automatizada de cotizaciones detalladas e informes técnicos en PDF.
     *   Visualización interactiva de gráficos estadísticos de consumos y cargas.
 
-### 🎬 **CARLOGTZ**
+### 🎬 **CARLOGTZ** https://www.carlogtz.com/
 > **Sitio web premium de portafolio para servicios audiovisuales y animación digital.**
 *   **Tecnologías:** Astro, TypeScript, Tailwind CSS, GSAP, Vercel.
 *   **Características clave:**
@@ -84,5 +84,5 @@ Con formación de Ingeniería y trayectoria en Bootcamps de especialización, co
 ---
 
 ## 📬 Conectemos
-*   **LinkedIn:** [Antonio Guiachetti Villarroel / https://www.linkedin.com/in/antonio-guiachetti-villarroel-b90816141/] (Reemplaza con tu enlace)
+*   **LinkedIn:** Antonio Guiachetti Villarroel https://www.linkedin.com/in/antonio-guiachetti-villarroel-b90816141/
 *   **Email:** [a.guiachetti@gmail.com](mailto:a.guiachetti@gmail.com)
