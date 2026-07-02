@@ -52,7 +52,7 @@ Con formación de Ingeniería y trayectoria en Bootcamps de especialización, co
     *   Generación automatizada de cotizaciones detalladas e informes técnicos en PDF.
     *   Visualización interactiva de gráficos estadísticos de consumos y cargas.
 
-### 🎬 **CARLOGTZ** https://www.carlogtz.com/
+### 🎬 **CARLOGTZ** https://www.carlogtz.cl/
 > **Sitio web premium de portafolio para servicios audiovisuales y animación digital.**
 *   **Tecnologías:** Astro, TypeScript, Tailwind CSS, GSAP, Vercel.
 *   **Características clave:**
